@@ -1,0 +1,8 @@
+cython
+wheel
+
+numpy
+pandas
+spacy
+nltk
+validators
